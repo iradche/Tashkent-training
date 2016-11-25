@@ -26,6 +26,39 @@
 
 Infogr.am: https://infogr.am/    
 
+## Примеры из JournHack Hackathon
+* Infogram: https://infogr.am/dZRtAFXWPsloHLmz
+       
+## Введение в Tableau Public
+* https://github.com/iradche/SPb-University-training/blob/master/draft/extra.md  
+
+## Средства визуализации данных
+* http://keshif.me/demo/VisTools (https://github.com/adilyalcin/Keshif)     
+
+## Carto
+* https://carto.com/
+
+## IBM Many Eyes
+* Many Eyes Tutorial: https://youtu.be/WhXxYgCezdc
+* Create a visualization in two steps! IBM Many Eyes: https://youtu.be/oSPw4wukEZU
+
+## Plotly
+* Plotly Essentials: https://youtu.be/hsKbYYBnGDM
+* Plot.ly Introduction: https://youtu.be/loRDhzQ9SOE
+
+## TimeLines.JS
+* http://timeline.knightlab.com/     
+
+## Piktochart
+* https://piktochart.com/     
+
+## Datawrapper
+* https://www.datawrapper.de/     
+
+## Canva
+* https://www.canva.com/ 
+
+
 # Список информационных источников
 
 1. The Data Journalism Handbook: http://datajournalismhandbook.org/1.0/en/    
