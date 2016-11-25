@@ -2,7 +2,7 @@
 * Что такое лонгрид?
 * Лучшие лонгриды: http://www.scmp.com/magazines/post-magazine/topics/best-long-reads
 * Обзор проекта Tilda: https://tilda.cc/    
-Инструкция: https://youtu.be/tK2CzTov-5A
+Инструкция: https://youtu.be/YDhE3nJLkRs
    
 
 # Введение в дата-журналистику    
