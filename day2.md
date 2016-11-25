@@ -22,6 +22,10 @@
 63 лучших проектов по дата-журналистики за последний год: http://www.huffingtonpost.com/entry/data-journalism-awards_us_573102c5e4b0bc9cb047c273    
 
 
+# Infogr.am
+
+Infogr.am: https://infogr.am/    
+
 # Список информационных источников
 
 1. The Data Journalism Handbook: http://datajournalismhandbook.org/1.0/en/    
