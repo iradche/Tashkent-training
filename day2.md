@@ -58,6 +58,9 @@ Infogr.am: https://infogr.am/
 ## Canva
 * https://www.canva.com/ 
 
+## Учебные курсы
+
+Data Journalism Fundamentals: https://youtu.be/IKiL5aNZbBk?list=PLKm0PJP62tVnu_jPFaVIusFKPtmk7dhnP
 
 # Список информационных источников
 
